@@ -1,4 +1,4 @@
-# UNIALFA-Atividade-Java-01
+# ALFA-Atividade-Java-01
 
 Questão Número 1 dos exercícios da data 27/08/2025
 
